@@ -1,3 +1,5 @@
+[![Post self-care tip](https://github.com/VanishingTacos/tinycarebot/actions/workflows/post.yml/badge.svg)](https://github.com/VanishingTacos/tinycarebot/actions/workflows/post.yml)
+
 # tinycarebot
 
 A Bluesky bot that posts a small self-care tip every hour.
